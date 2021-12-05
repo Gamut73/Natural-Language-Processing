@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-A collection of projects and experiments done while learning NLP
+This is a collection of projects and experiments done while learning NLP
